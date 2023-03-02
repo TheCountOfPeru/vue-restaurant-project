@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,b as s}from"./index-f7c6c519.js";const c="/assets/menu3-b2a36400.png",a={},n={class:"p-3 col-md-8 offset-md-2"},_=s("div",{class:""},[s("img",{src:c,class:"d-block w-100",alt:"..."})],-1),r=[_];function d(i,p,l,m,f,u){return o(),t("div",n,r)}const $=e(a,[["render",d]]);export{$ as default};
