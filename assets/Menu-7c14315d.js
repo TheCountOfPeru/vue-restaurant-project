@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,b as s}from"./index-f44e7dde.js";const c="/vue-restaurant-project/assets/menu3-b2a36400.png",a={},n={class:"p-3 col-md-8 offset-md-2"},r=s("div",{class:""},[s("img",{src:c,class:"d-block w-100",alt:"..."})],-1),_=[r];function d(p,i,l,m,f,u){return t(),o("div",n,_)}const $=e(a,[["render",d]]);export{$ as default};
