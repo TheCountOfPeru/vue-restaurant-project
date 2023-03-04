@@ -3,21 +3,21 @@
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img
-          src="../assets/images/lily-banse--YHSwy6uqvk-unsplash.jpg"
+          src="../assets/images/lily-banse--YHSwy6uqvk-unsplash1.jpg"
           class="d-block w-100"
           alt="..."
         />
       </div>
       <div class="carousel-item">
         <img
-          src="../assets/images/anna-pelzer-IGfIGP5ONV0-unsplash.jpg"
+          src="../assets/images/anna-pelzer-IGfIGP5ONV0-unsplash1.jpg"
           class="d-block w-100"
           alt="..."
         />
       </div>
       <div class="carousel-item">
         <img
-          src="../assets/images/alex-munsell-Yr4n8O_3UPc-unsplash.jpg"
+          src="../assets/images/alex-munsell-Yr4n8O_3UPc-unsplash1.jpg"
           class="d-block w-100"
           alt="..."
         />
